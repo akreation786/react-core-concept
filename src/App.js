@@ -10,6 +10,9 @@ function App() {
         <p>
           Edit Done <code>src/App.js</code> and save to reload.
         </p>
+        <h3>My First React Heading</h3>
+        <p>My First react Paragraph</p>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
